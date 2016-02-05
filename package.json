@@ -1,0 +1,27 @@
+{
+  "name": "countdown",
+  "version": "0.1.0",
+  "description": "Countdown Timer Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rehf27/countdown.git"
+  },
+  "keywords": [
+    "api",
+    "timer",
+    "countdown"
+  ],
+  "author": "rehf27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehf27/countdown/issues"
+  },
+  "homepage": "https://github.com/rehf27/countdown",
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}
